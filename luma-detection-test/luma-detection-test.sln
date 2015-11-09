@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "luma-detection-test.CSharp.Plugins", "luma-detection-test.CSharp.Plugins.csproj", "{F51BD0C8-2D81-FDEE-995F-3839CB679F53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "luma-detection-test.CSharp", "luma-detection-test.CSharp.csproj", "{1D5A8376-AB68-85DC-5B86-DFC49CF3B6D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "luma-detection-test.CSharp.Editor", "luma-detection-test.CSharp.Editor.csproj", "{B4E6C886-1C94-2147-58E0-BE40E0A83672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F51BD0C8-2D81-FDEE-995F-3839CB679F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F51BD0C8-2D81-FDEE-995F-3839CB679F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F51BD0C8-2D81-FDEE-995F-3839CB679F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F51BD0C8-2D81-FDEE-995F-3839CB679F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5A8376-AB68-85DC-5B86-DFC49CF3B6D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5A8376-AB68-85DC-5B86-DFC49CF3B6D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5A8376-AB68-85DC-5B86-DFC49CF3B6D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5A8376-AB68-85DC-5B86-DFC49CF3B6D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4E6C886-1C94-2147-58E0-BE40E0A83672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E6C886-1C94-2147-58E0-BE40E0A83672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E6C886-1C94-2147-58E0-BE40E0A83672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E6C886-1C94-2147-58E0-BE40E0A83672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
